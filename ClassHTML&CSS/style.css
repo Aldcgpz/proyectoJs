@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(142, 149, 250);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+h1 {
+  font-size: 40px;
+}
+.first {
+  color: red;
+}
+
+.second {
+  color: darkblue;
+}
+#your-name {
+  background-color: yellowgreen;
+  border: 5px solid rgb(0, 0, 0);
+  width: inherit;
+  height: inherit;
+  padding: 10px 50px;
+}
