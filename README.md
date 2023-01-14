@@ -7,3 +7,4 @@ My first proyect Js with Git and GitHub
    principal topic : DOM
    2.1 Se refactorizo resuimiendo dos condiciones en una y reumiendo en funciones lineas utilizadas en todo el codigo
    Author: Aldair Carlos Gonzalez Perez
+3. Second proyect Js (proyect2 = Buttons Modals)
